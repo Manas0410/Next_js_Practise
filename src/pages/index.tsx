@@ -1,3 +1,3 @@
 export default function Ankit() {
-  return <p>Hello NextJS App</p>;
+  return <p>MANAS IS GOD</p>;
 }

@@ -5,6 +5,7 @@ export default function ShankarDetails() {
   console.log("Router: ", router);
   return (
     <p>
+      manas
       Hello Shankar: Details {router.query.id} {router.query.city}
     </p>
   );
